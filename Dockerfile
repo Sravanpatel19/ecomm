@@ -1,4 +1,4 @@
-# Use Nginx base image
+# Use Nginx base image test
 FROM nginx:latest
 
 # Set working directory
